@@ -766,7 +766,7 @@
   "item.simplyswords.emberlashsworditem.tooltip2":                                                                      "Seus ataques infligem Ardência.",
   "item.simplyswords.emberlashsworditem.tooltip3":                                                                      "Atacar inimigos com Ardência faz com que você",
   "item.simplyswords.emberlashsworditem.tooltip4":                                                                      "cause %d de dano adicional por carga.",
-  "item.simplyswords.emberlashsworditem.tooltip5":                                                                      "Evada para trás enquanto cauteriza suas feridas,",
+  "item.simplyswords.emberlashsworditem.tooltip5":                                                                      "Recua para trás enquanto cauteriza suas feridas,",
   "item.simplyswords.emberlashsworditem.tooltip6":                                                                      "curando %d%% da Vida Máxima.",
   "item.simplyswords.emberlashsworditem.tooltip7":                                                                      "",
 
@@ -795,7 +795,7 @@
   "item.simplyswords.starsedgesworditem.tooltip2":                                                                      "Durante o dia, seus ataques infligem",
   "item.simplyswords.starsedgesworditem.tooltip3":                                                                      "%s de dano adicional.",
   "item.simplyswords.starsedgesworditem.tooltip4":                                                                      "À noite, seus ataques ganham roubo de vida.",
-  "item.simplyswords.starsedgesworditem.tooltip5":                                                                      "Evada para trás enquanto ganha Velocidade.",
+  "item.simplyswords.starsedgesworditem.tooltip5":                                                                      "Recua para trás enquanto ganha Velocidade.",
   "item.simplyswords.starsedgesworditem.tooltip6":                                                                      "Ative uma segunda vez para avançar",
   "item.simplyswords.starsedgesworditem.tooltip7":                                                                      "à frente, ganhando resistência e",
   "item.simplyswords.starsedgesworditem.tooltip8":                                                                      "pressa.",
